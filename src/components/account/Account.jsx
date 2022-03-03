@@ -229,7 +229,7 @@ export default function Account({ session }) {
     return (
         <div className="form-widget">
 
-            <a href='https://github.com/Eddsalasgit/records/tree/main'>GitHub</a>
+            <a href='https://github.com/retoiteitor190/recordatorio_tarea_2.git'>GitHub Alejandro Ruiz Moreno</a>
 
             <h1>{i18next.t("title1")}</h1>
 
